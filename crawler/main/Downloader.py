@@ -1,3 +1,5 @@
+#网页访问模块
+#create by crh in 2017-3-31
 import urllib2
 from bs4 import BeautifulSoup
 import re
