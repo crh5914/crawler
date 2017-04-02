@@ -1,6 +1,4 @@
-#数据存储模块
-#create by crh in 2017-3-31
+#Created on 2017/4/2
+#@author: crh
 class DataStore:
-    def store(self):
-        #store
-        print('store')
+    pass
